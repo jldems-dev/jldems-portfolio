@@ -80,9 +80,9 @@ Currently working as a **Junior Software Engineer at Northland Hospital**, where
 
 This project can be deployed easily using:
 
-- GitHub Pages  
-- Netlify  
-- Vercel  
+- GitHub Pages
+- CloudFlare Pages
+- Netlify   
 
 Since this is a static website, deployment only requires uploading the project files.
 
