@@ -601,6 +601,7 @@ section {
 .project-card:nth-child(1) { grid-column: span 7; }
 .project-card:nth-child(2) { grid-column: span 5; }
 .project-card:nth-child(3) { grid-column: span 5; }
+.project-card:nth-child(4) { grid-column: span 5; }
 
 .project-card::after {
     content: '';
@@ -929,7 +930,7 @@ footer {
 .stagger-children.visible > *:nth-child(2) { transition-delay: 0.1s; }
 .stagger-children.visible > *:nth-child(3) { transition-delay: 0.2s; }
 .stagger-children.visible > *:nth-child(4) { transition-delay: 0.3s; }
-.stagger-children.visible > *:nth-child(5) { transition-delay: 0.4s; }
+.stagger-children.visible > *:nth-child(5) { transition-delay: 0.4s; } 
 
 .stagger-children.visible > * {
     opacity: 1;
@@ -986,7 +987,8 @@ footer {
 
     .project-card:nth-child(1) { grid-column: span 6; }
     .project-card:nth-child(2) { grid-column: span 6; }
-    .project-card:nth-child(3) { grid-column: span 12; }
+    .project-card:nth-child(3) { grid-column: span 6; }
+    .project-card:nth-child(4) { grid-column: span 6; }
 
     .contact-section {
         padding: 6rem 3rem;
@@ -1171,7 +1173,8 @@ footer {
 
     .project-card:nth-child(1),
     .project-card:nth-child(2),
-    .project-card:nth-child(3) {
+    .project-card:nth-child(3),
+    .project-card:nth-child(4) {
         grid-column: span 1;
     }
 
