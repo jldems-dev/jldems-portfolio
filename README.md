@@ -1,6 +1,6 @@
 # JLDEMS Portfolio Website
 
-Personal portfolio website of **John Lyric Demegillo**, a Software Engineer and Developer with experience in web development, system administration, and IT support.
+Personal portfolio website, a Software Engineer and Developer with experience in web development, system administration, and IT support.
 
 This portfolio showcases my professional background, technical skills, and selected projects across healthcare, freelance work, and digital agencies.
 
